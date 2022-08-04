@@ -1,0 +1,50 @@
+flat_r02.fits[1020,2350][ushort]: long Flat
+No bad pixels, min=0., max=0. (old)
+Line storage mode, physdim [1020,2350], length of user area 2025 s.u.
+Created Sun 08:06:02 27-Sep-2020, Last modified Sun 08:06:02 27-Sep-2020
+Pixel file "flat_r02.fits" [ok]
+BSCALE  =                  1.0 /
+BZERO   =                32768 /
+EXPTIME =                   90 /
+XBIN    =                    2 /
+YBIN    =                    2 /
+CTYPE1  = 'PIXEL'              / axis1 in pixels
+CTYPE2  = 'PIXEL'              / axis2 in pixels
+CCDTEMP =               -104.1 / detector temperature [C]
+DATE-OBS= '2014-07-03T10:58:28'/
+UT-DATE = '2014-07-03'         /
+UT      = '10:58:28'           /
+MJD-OBS =          56841.45727 / modified Julian Date start of observation
+OBSTYPE = 'flat              ' / OBSERVATION TYPE
+OBJECT  = 'long Flat'
+TELESCOP= '1.8-m'              / This telescope
+OBSERVAT= 'DAO'                / Location
+ORIGIN  = 'NRC/HIA'            / Organization responsible for FITS file
+WIND_SPD=                  4.0 / Wind speed, m/s
+MAX_WND =                  7.5 / Max wind speed last min,m/s
+WIND_DIR=                229.3 / Wind direction, degrees
+WIND_CHL=                  7.8 / Wind chill, deg C
+OUT_TEMP=                 12.0 / Outside Temperature, deg C
+REL_HUMI=                 77.0 / Outside relative humidity, percent
+DEWPOINT=                  8.0 / Outside dew point, deg C
+TELFOCUS=                 8960 / Newtonian focus
+FILPOS  =                    3 / Newt. raw filter pos
+WAVELENG=                 6200 / Newt. filter central wavelength
+BANDPASS=                 1300 / Newt. filter bandpass width
+FILTER  =       'SDSS r prime' / Newt. filter name
+ST      = '21:30:21.65'        / AT START OF EXPOSURE
+RA      = '23:00:06.20'        / AT START OF EXPOSURE
+DEC     = '+19:55:44.2'        / AT START OF EXPOSURE
+HA      = '-01:29:44.54'       / AT START OF EXPOSURE
+DOMEAZ  =               125.57 / AT START OF EXPOSURE
+ZD      =                33.81 / AT START OF EXPOSURE
+EQUINOX =              2014.50 / AT START OF EXPOSURE
+ALTITUDE=                56.19 / AT START OF EXPOSURE
+AIRMASS =               1.2035 / AT START OF EXPOSURE
+INSTRUME=   'Newtonian Imager' / Instrument used
+OBSMODE =            'Imaging' / Observing mode
+OBSERVER=              'Balam' / Observer
+PINAME  = 'DeRobertis'         / Principal investigator name
+DATASEC = '[5:1015,1:2306]'
+BIASSEC = '[1:4,1:2306]'
+RELEASE = '2014-07-03T11:00:32'/
